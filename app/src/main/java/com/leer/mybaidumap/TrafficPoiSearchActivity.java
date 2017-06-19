@@ -88,7 +88,6 @@ public class TrafficPoiSearchActivity extends BaseActivity implements OnGetRoute
         overlay.setData(walkingRouteLine);
         mBaiduMap.setOnMarkerClickListener(overlay);
         overlay.addToMap();
-        ToastUtil.show("哈哈哈哈");
         overlay.zoomToSpan();
     }
 
