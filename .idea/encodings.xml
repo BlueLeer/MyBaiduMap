@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/leer/mybaidumap/ActivityListActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/leer/mybaidumap/HelloBaiduMap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_eat.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_end.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_geo.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_start.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/popupmap.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/roads.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/round.png" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

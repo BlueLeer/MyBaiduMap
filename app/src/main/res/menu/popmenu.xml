@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nomal"
+        android:title="普通图"/>
+    <item
+        android:id="@+id/satellite"
+        android:title="卫星图"/>
+    <item
+        android:id="@+id/blank"
+        android:title="空白图"/>
+    <item
+        android:id="@+id/triffical_on"
+        android:title="开启交通图"/>
+    <item
+        android:id="@+id/triffical_off"
+        android:title="关闭交通图"/>
+    <item
+        android:id="@+id/heatmap_on"
+        android:title="开启热力图"/>
+    <item
+        android:id="@+id/heatmap_off"
+        android:title="关闭热力图"/>
+
+</menu>
